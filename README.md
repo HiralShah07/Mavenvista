@@ -1,2 +1,2 @@
 # Mavenvista
-Future of PRocurement
+VENDX- Future of Procurement
