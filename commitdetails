@@ -1,0 +1,47 @@
+cgi-bin/catalyst/vendx/root/src/da/common_filter.tt2 cgi-bin/catalyst/vendx/root/src/da/gqcs_list_details.tt2
+
+commit ac83fabdeb3623414b03dbd0b42cb4b27a8f76df
+Author: Hiral <hiral.mavenvista@gmail.com>
+Date:   Tue Jul 21 12:02:00 2020 +0530
+
+    Added condition for initiator workflow
+
+b594e6e..ac83fab
+
+n+1 mass action- bug fix: n+1_mass_actions 15416ff
+______________________________________________________________________
+commit 15416ff83a417521c54ebdc6d36efa95af5ba76b
+Author: Hiral <hiral.mavenvista@gmail.com>
+Date:   Mon Sep 14 19:47:38 2020 +0530
+
+    modified code for bug fixing of count difference in Old DA and Quick DA
+
+commit da56f6477569caa15111d393e764b6141001d964
+Author: Hiral <hiral.mavenvista@gmail.com>
+Date:   Mon Sep 14 21:18:31 2020 +0530
+
+    LLD changes for bug fixing
+qcswaitingforapprovaldb.pm
+7f811b7..da56f64 - push origin n+1_mass_actions branch
+______________________________________________________________________
+bug : 0012159 fixed
+
+commit f3ffca5049e9894f4f6cf5afb26816f5c150324f
+Author: Hiral <hiral.mavenvista@gmail.com>
+Date:   Tue Sep 15 17:54:17 2020 +0530
+
+    Modified code for bug fixing
+
+commit ba3a237e156ff8c19f7acc62110b15957a2425a7
+Author: Hiral <hiral.mavenvista@gmail.com>
+Date:   Tue Sep 15 18:00:58 2020 +0530
+
+    LLD changes for bug fixing
+extranet_javascript
+qcswaitingforapprovaldisplay.pm
+__________________________________________________________________________
+
+
+
+
+
